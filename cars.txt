@@ -5,9 +5,8 @@ Audi R8
 Tesla
 Lexus
 Mazda 3
-<<<<<<< HEAD
 Kia Optima
 Honda Civic
-=======
 Subaru WRX STI
->>>>>>> 31d71dc1a4772787e1dbae39a7fa00e15f76521d
+Lada
+
