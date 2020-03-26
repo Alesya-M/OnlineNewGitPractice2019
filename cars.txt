@@ -5,3 +5,5 @@ Audi R8
 Tesla
 Lexus
 Mazda 3
+Kia Optima
+Honda Civic
