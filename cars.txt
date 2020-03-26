@@ -5,3 +5,4 @@ Audi R8
 Tesla
 Lexus
 Mazda 3
+Subaru WRX STI
