@@ -12,3 +12,4 @@ Lada
 Cybertruck
 Mazda 3
 Audi A4
+Range Rover Velar
